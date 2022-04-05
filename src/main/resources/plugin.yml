@@ -1,0 +1,7 @@
+main: dme.primplug.Main
+name: PrimPlug
+version: 1.0
+commands:
+  pgivea:
+    usage: /pgivea <player> <item>
+    description: gives the target player a custom item
